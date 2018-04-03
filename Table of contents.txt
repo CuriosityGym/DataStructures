@@ -1,8 +1,8 @@
 1. OOP - Explain concepts
-2. TDD an unit testing
+2. Test driven development and unit testing
 3. Stack and paranthesis check example
 4. Explain call stack during recursion and plain function call. We will do the call stack activity.
-5.Recursion and dynamic programming and how call stack is used here.
+5. Recursion and dynamic programming and how call stack is used here.
 Start with fibonacci and factorial and stadium activity and go through all three implemntations of pascal's with dynamic programming
 6. Explain queues and usage verbally
 Explain trees formed during recursion
