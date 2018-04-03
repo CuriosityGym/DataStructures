@@ -1,0 +1,17 @@
+1. OOP - Explain concepts
+2. TDD an unit testing
+3. Stack and paranthesis check example
+4. Explain call stack during recursion and plain function call. We will do the call stack activity.
+5.Recursion and dynamic programming and how call stack is used here.
+Start with fibonacci and factorial and stadium activity and go through all three implemntations of pascal's with dynamic programming
+6. Explain queues and usage verbally
+Explain trees formed during recursion
+7.Pre, in and post order traversals and the shunting yard algorithm and evaluate math expressions and flaws doing it this way.
+8,9,10. How does computer evaluate math expressions
+FSM activity and BNF form and traffic light example
+Convert math expr to fsm and ebnf and to code
+
+Write Lexer, Parser, Interpreter and Visualizer
+
+Concepts: Trees, stack, queue, pre, post and inorder and breadth first traversal
+
